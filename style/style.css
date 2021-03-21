@@ -232,10 +232,12 @@ h5 {
   padding-left: 21px;
 }
 .feedback-list {
-  list-style: none;
   margin: 0 auto;
   width: 834px;
   position: relative;
+}
+.feedback-items {
+  list-style: none;
 }
 .feedback-item {
   display: grid;
