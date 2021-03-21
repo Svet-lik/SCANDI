@@ -5,8 +5,6 @@ body {
   color: #533738;
   width: 1400px;
   margin: 0 auto;
-  /* height: 5372px;
-  background: url("../image/Frame1.jpg") no-repeat center; */
   background-size: contain;
 }
 *,
@@ -299,6 +297,7 @@ cite {
   color: #f6ede9;
   font-size: 18px;
   line-height: 30px;
+  font-family: "Montserrat", sans-serif;
 }
 .form-group:last-child  {
   padding-top: 33px;
@@ -320,9 +319,7 @@ cite {
 }
 .request-input::placeholder {
   color: #f6ede9;
-  font-family: "Montserrat", sans-serif;
 }
-
 .request-input:hover {
   opacity: 0.6;
 }
